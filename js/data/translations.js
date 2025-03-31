@@ -1,0 +1,50 @@
+export const translations = {
+  en: {
+    introTitle: "4K1D3V",
+    introDesc: ["Weaver of Nightmares, Lord of Pixel Chaos", "Destroyer of Realms, Code Alchemist", "Riftwalker, Pixel God"],
+    portals: "Portal Realms",
+    minecraft: { title: "Minecraft Forge", desc: "Sculpting chaos for epic fuckin' quests." },
+    server: { title: "Server Abyss", desc: "Erecting empires that defy the void." },
+    marketing: { title: "Marketing Storm", desc: "Unleashing tempests of fuckin' hype." },
+    translation: { title: "Language Warp", desc: "Twisting tongues through cosmic rifts." },
+    artifacts: "Relics of Madness",
+    nexus: "Nexus of Nightmares",
+    crucible: "Chaos Crucible",
+    forge: "Forge of Fragments",
+    echoes: "Echoes of the Void",
+    archives: "Rift Archives",
+    transmit: "Scream into the Void"
+  },
+  ja: {
+    introTitle: "4K1D3V",
+    introDesc: ["悪夢の織り手、ピクセル混沌の王", "領域の破壊者、コード錬金術師", "裂け目の旅人、ピクセル神"],
+    portals: "ポータル領域",
+    minecraft: { title: "Minecraft Forge", desc: "壮大なクソクエストのための混沌を彫る。" },
+    server: { title: "Server Abyss", desc: "虚空に逆らう帝国を立てる。" },
+    marketing: { title: "Marketing Storm", desc: "クソ盛り上がりの嵐を解き放つ。" },
+    translation: { title: "Language Warp", desc: "宇宙の裂け目で舌を捻る。" },
+    artifacts: "狂気の遺物",
+    nexus: "悪夢の結節",
+    crucible: "混沌の坩堝",
+    forge: "断片の鍛冶場",
+    echoes: "虚空の響き",
+    archives: "裂け目の記録",
+    transmit: "虚空に叫ぶ"
+  },
+  hi: {
+    introTitle: "4K1D3V",
+    introDesc: ["दुःस्वप्नों का बुनकर, पिक्सल अराजकता का स्वामी", "क्षेत्रों का विनाशक, कोड कीमियागर", "रिफ्टवॉकर, पिक्सल देवता"],
+    portals: "पोर्टल क्षेत्र",
+    minecraft: { title: "Minecraft Forge", desc: "महाकाव्य कसम खाने वाली खोजों के लिए अराजकता को तराशना।" },
+    server: { title: "Server Abyss", desc: "शून्य को चुनौती देने वाले साम्राज्य खड़ा करना।" },
+    marketing: { title: "Marketing Storm", desc: "कसम खाने वाली उत्तेजना के तूफान छोड़ना।" },
+    translation: { title: "Language Warp", desc: "ब्रह्मांडीय दरारों से जीभ मोड़ना।" },
+    artifacts: "पागलपन के अवशेष",
+    nexus: "दुःस्वप्नों का संगम",
+    crucible: "अराजकता का क्रूसिबल",
+    forge: "खंडों का कारखाना",
+    echoes: "शून्य की गूँज",
+    archives: "रिफ्ट अभिलेखागार",
+    transmit: "शून्य में चीखें"
+  }
+};
